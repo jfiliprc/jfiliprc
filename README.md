@@ -22,11 +22,13 @@ Currently strengthening my skills in:
 
 ## 🧠 Main Skills
 
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql)
-![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoft-excel)
-![Power BI](https://img.shields.io/badge/-PowerBI-0D1117?style=for-the-badge&logo=powerbi)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow)
+
+![SQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=yellow)
 
 ---
 
